@@ -117,11 +117,12 @@ Never commit your `.env` file. It is listed in `.gitignore`. Use `.env.example` 
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+**Venkatesh**  
+
 
 ---
 
 ## 📄 License
 
 MIT License — feel free to use this as a reference for your own RAG learning journey!
+
